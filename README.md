@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MansouriHana
-- 👀 I’m interested in  fullstack developement
+- 👀 I’m interested with fullstack developement
 - 🌱 I’m currently learning  spring boot + angular development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a new opportunity ...
 - 📫 How to reach me ...
 
 <!---
